@@ -17,4 +17,4 @@ Grid Search Sampling, Regression Imputation, CatBoost, LightGBM, ML-KNN, RandomF
 
 
 #### 프로젝트 결과
-Driven Data Competition 2111명 중 34등 (2021.11기준) 
+AUROC: 0.86 (Driven Data Competition 2111명 중 34등 *2021.11기준*) 
